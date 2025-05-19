@@ -3,5 +3,4 @@ flask_cors
 google
 google-genai
 google-api-core
-os
 dotenv
